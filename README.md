@@ -15,7 +15,7 @@ This project explores the **Titanic dataset** to understand the factors that inf
 ---
 
 ### 📂 Repository Contents  
-- `Data_Storytelling_Titanic_Survival.html` → Interactive profiling report generated with ydata-profiling  
+- `titanic_profiling.html` → Interactive profiling report generated with ydata-profiling  
 
 ---
 
